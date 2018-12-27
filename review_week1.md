@@ -2,18 +2,18 @@
 
 
  	 	 
-|단계|정의|활용 Tool|
-|공감
-(empathize)|ㅇㅇㅇ을 위해 ㅇㅇㅇ를 하는 단계|1. 공감지도:
-ㅇㅇ을 위해 ㅇㅇ하는 기법, 어떠한 방법을 쓰며 어떠한 장점이 있다.|
-|John|Java|2. ㅇㅇㅇ|
-|Peter|Python|3. ㅇㅇㅇ|
+| 단계 | 정의 | 활용 Tool |
+| 공감
+(empathize) | ㅇㅇㅇ을 위해 ㅇㅇㅇ를 하는 단계 | 1. 공감지도: ㅇㅇ을 위해 ㅇㅇ하는 기법,
+어떠한 방법을 쓰며 어떠한 장점이 있다. |
+| John | Java | 2. ㅇㅇㅇ |
+| Peter | Python | 3. ㅇㅇㅇ |
 
 
 
 |11|22|
 
 
-| Header One | Header Two | Header Three | Header Four |
-| ---------- | :--------- | :----------: | ----------: |
+| Header One | Header Two | Header Three |
+| ---------- | :--------- | :----------: |
 | Default | Left | Center | Right |
