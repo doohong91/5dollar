@@ -6,7 +6,7 @@
  	 
 
 | 단계 | 정의 | 활용 Tool |
-| ---------- | :--------- | :---------- |
+| ---------- | :--------- | :----------: |
 | 공감 (empathize) | 관찰, 인터뷰, 체험으로 문제점을 발견 | ![페르소나](https://user-images.githubusercontent.com/30791915/50471116-9d77f500-09f6-11e9-8684-3238c44cb6e5.png)|
 | 문제정의 (Define) | 문제점에 대해 정의하고 분석하는 단계 | ![고객여정맵](https://user-images.githubusercontent.com/30791915/50471114-9cdf5e80-09f6-11e9-9312-7be304621618.png) |
 | 아이디어 도출 (Ideate) | 아이디어를 자유롭게 발산하는 과정 | ![스캠퍼](https://user-images.githubusercontent.com/30791915/50471115-9cdf5e80-09f6-11e9-8250-4b9fe0e163a5.png) |
