@@ -26,3 +26,9 @@ title: 자기 주도 학습
 [서울\_2\_김민혁](https://github.com/5different/ssafy_week2_chatbot)
 
 [서울\_2\_채찬우](https://github.com/a23822/ssafy_week2_ChatBot)
+
+[서울\_2\ 강민지](https://github.com/kang-minji/2018-12-final)
+
+[서울\_2\_이한성](https://github.com/Hansung-Lee/ssafy_181227)
+
+[서울\_2\_민두홍](https://github.com/doohong91/ssafy_w2_chatbot)
