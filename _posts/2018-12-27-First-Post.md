@@ -24,4 +24,5 @@ title: 자기 주도 학습
 
 # 2주차
 
-연습 2
+## [2주차 Reflection] Chatbot Quest
+[서울\_2\_김민혁](https://github.com/5different/ssafy_week2_chatbot)
