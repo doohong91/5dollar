@@ -2,7 +2,7 @@
 # 슬라이드 1
 ## 5달라 단체사진 
 
-![오달라_단체사진](https://user-images.githubusercontent.com/30791915/50469242-e5931980-09ee-11e9-89e0-96e7556535c0.jpg)
+[오달라_단체사진](https://user-images.githubusercontent.com/30791915/50469242-e5931980-09ee-11e9-89e0-96e7556535c0.jpg)
 
 ---
 # 슬라이드 2 
