@@ -5,12 +5,11 @@ title: 자기 주도 학습
 [팀원 소개 presentation](https://gitpitch.com/doohong91/5dollar)
 
 
-# 주제 1
+# 1주차
 
 
 
 
-
-# 주제 2
+# 2주차
 
 연습 2
