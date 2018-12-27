@@ -10,6 +10,7 @@ title: 자기 주도 학습
 ## [1주차 Reflection] Design Thinking 방법론
 
 
+
 | 단계 | 정의 | 활용 Tool | 사진 |
 | ---------- | :--------- | :---------- | :---------- |
 | 공감 (empathize) | 관찰, 인터뷰, 체험으로 문제점을 발견 | 페르소나 |![페르소나](https://user-images.githubusercontent.com/30791915/50471116-9d77f500-09f6-11e9-8684-3238c44cb6e5.png)|
